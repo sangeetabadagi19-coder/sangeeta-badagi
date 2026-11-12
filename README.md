@@ -5,3 +5,5 @@ Hello! My name is Sangeeta Badagi, and I am a Computer Science Engineering stude
 Skill: Learning Python
 
 Interest: Web Development
+
+Goal: Build useful software projects
